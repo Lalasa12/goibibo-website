@@ -1,0 +1,6 @@
+/* src/components/FlightList.css */
+.flight-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
